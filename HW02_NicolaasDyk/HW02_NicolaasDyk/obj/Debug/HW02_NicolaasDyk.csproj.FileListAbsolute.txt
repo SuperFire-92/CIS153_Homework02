@@ -1,0 +1,10 @@
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\bin\Debug\HW02_NicolaasDyk.exe.config
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\bin\Debug\HW02_NicolaasDyk.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\bin\Debug\HW02_NicolaasDyk.pdb
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.csproj.AssemblyReference.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.Form1.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.Properties.Resources.resources
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.exe
+C:\Users\Nick\Documents\College\GitHub\CIS153\CIS153_Homework02\HW02_NicolaasDyk\HW02_NicolaasDyk\obj\Debug\HW02_NicolaasDyk.pdb
