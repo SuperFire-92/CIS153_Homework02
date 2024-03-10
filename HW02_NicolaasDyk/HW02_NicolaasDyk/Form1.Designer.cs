@@ -114,6 +114,7 @@
             this.txt_password.Name = "txt_password";
             this.txt_password.Size = new System.Drawing.Size(112, 20);
             this.txt_password.TabIndex = 5;
+            this.txt_password.UseSystemPasswordChar = true;
             // 
             // label1
             // 
@@ -195,6 +196,7 @@
             this.txt_verifyPassword.Name = "txt_verifyPassword";
             this.txt_verifyPassword.Size = new System.Drawing.Size(112, 20);
             this.txt_verifyPassword.TabIndex = 6;
+            this.txt_verifyPassword.UseSystemPasswordChar = true;
             // 
             // lbl_error_username
             // 
