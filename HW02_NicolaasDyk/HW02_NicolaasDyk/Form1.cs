@@ -8,6 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//============================
+//Name: Nicolaas Dyk
+//Date: 03/10/24
+//Desc: User submission app
+//============================
+
+
 namespace HW02_NicolaasDyk
 {
     public partial class Form1 : Form
