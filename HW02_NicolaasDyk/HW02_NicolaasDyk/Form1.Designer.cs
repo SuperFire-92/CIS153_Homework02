@@ -60,7 +60,7 @@
             this.txt_userDisplay.ReadOnly = true;
             this.txt_userDisplay.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txt_userDisplay.Size = new System.Drawing.Size(776, 117);
-            this.txt_userDisplay.TabIndex = 1;
+            this.txt_userDisplay.TabIndex = 8;
             this.txt_userDisplay.Text = resources.GetString("txt_userDisplay.Text");
             // 
             // contextMenuStrip1
@@ -75,7 +75,7 @@
             this.txt_username.MaxLength = 14;
             this.txt_username.Name = "txt_username";
             this.txt_username.Size = new System.Drawing.Size(112, 20);
-            this.txt_username.TabIndex = 3;
+            this.txt_username.TabIndex = 1;
             // 
             // txt_fName
             // 
@@ -84,7 +84,7 @@
             this.txt_fName.MaxLength = 13;
             this.txt_fName.Name = "txt_fName";
             this.txt_fName.Size = new System.Drawing.Size(112, 20);
-            this.txt_fName.TabIndex = 4;
+            this.txt_fName.TabIndex = 2;
             this.txt_fName.TextChanged += new System.EventHandler(this.txt_fName_TextChanged);
             // 
             // txt_lName
@@ -94,7 +94,7 @@
             this.txt_lName.MaxLength = 13;
             this.txt_lName.Name = "txt_lName";
             this.txt_lName.Size = new System.Drawing.Size(112, 20);
-            this.txt_lName.TabIndex = 5;
+            this.txt_lName.TabIndex = 3;
             this.txt_lName.TextChanged += new System.EventHandler(this.txt_lName_TextChanged);
             // 
             // txt_email
@@ -104,7 +104,7 @@
             this.txt_email.MaxLength = 27;
             this.txt_email.Name = "txt_email";
             this.txt_email.Size = new System.Drawing.Size(200, 20);
-            this.txt_email.TabIndex = 6;
+            this.txt_email.TabIndex = 4;
             // 
             // txt_password
             // 
@@ -113,7 +113,7 @@
             this.txt_password.MaxLength = 15;
             this.txt_password.Name = "txt_password";
             this.txt_password.Size = new System.Drawing.Size(112, 20);
-            this.txt_password.TabIndex = 7;
+            this.txt_password.TabIndex = 5;
             // 
             // label1
             // 
@@ -171,7 +171,7 @@
             this.button1.Location = new System.Drawing.Point(178, 250);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(460, 65);
-            this.button1.TabIndex = 13;
+            this.button1.TabIndex = 7;
             this.button1.Text = "REGISTER";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -194,7 +194,7 @@
             this.txt_verifyPassword.MaxLength = 15;
             this.txt_verifyPassword.Name = "txt_verifyPassword";
             this.txt_verifyPassword.Size = new System.Drawing.Size(112, 20);
-            this.txt_verifyPassword.TabIndex = 14;
+            this.txt_verifyPassword.TabIndex = 6;
             // 
             // lbl_error_username
             // 
